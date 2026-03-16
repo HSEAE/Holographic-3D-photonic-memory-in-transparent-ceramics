@@ -244,7 +244,7 @@ Modular phasing enables a reduced $5.2M scope (36 months, Phases 0–2 only) if 
 
 ```
 ├── README.md                        ← This file
-└── HSEAE_Proposal_v2.3.docx         ← Full research proposal (42 months, $7.3M)
+└── HSEAE_Proposal_v2.3         ← Full research proposal (42 months, $7.3M)
 ```
 
 ---
